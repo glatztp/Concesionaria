@@ -1,0 +1,20 @@
+IMPORTANTE: Para utlizar o PHP, você irá precisar do programa XAMPP, para fazer um servidor local.
+
+
+*Obs1:Para abrir pastas com index em formato php, temos que usar o XAMPP, e digitar no navegador:
+
+	http//localhost/<nome da pasta com os arquivos do site>
+
+*Obs3: Para printar as coisas na tela em PHP, se usa o comando 'echo' seguido das áspas duplas:
+	
+	echo "Olá mundo";
+
+*Obs2: Para adicionar uma variável em PHP, se usa o símbolo '$' seguido do nome da variável, e para chamar se usa o mesmo símbolo e nome da variável criada:
+	
+	$idade = 16;
+	$apelido = "bigode";
+
+	echo "Olá $apelido, sua idade é de $idade anos, correto?";
+
+*Obs3: 
+
